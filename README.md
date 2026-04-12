@@ -23,6 +23,9 @@ Website: https://frostaing.com
 ### Mini Bloomberg Terminal
 Unified research platform integrating all systems into a single interface  
 
+![Mini Bloomberg Terminal](assets/terminal_collage.png)
+
+
 ### AI Investment Research Agent
 Six-engine deterministic system with composite scoring and confidence grading  
 
