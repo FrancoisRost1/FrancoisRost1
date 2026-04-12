@@ -23,7 +23,7 @@ Website: https://frostaing.com
 ### Mini Bloomberg Terminal
 Unified research platform integrating all systems into a single interface  
 
-![Mini Bloomberg Terminal](assets/terminal_collage.png)
+<img src="assets/terminal_collage.png" alt="Mini Bloomberg Terminal" width="600">
 
 
 ### AI Investment Research Agent
