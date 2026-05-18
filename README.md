@@ -2,7 +2,6 @@
 
 Institutional Finance Systems Builder  
 Private Equity, Quantitative Finance, Python  
-Geneva, Switzerland · CFA Level I Candidate (Aug 2026)
 
 I build production-grade financial systems that replicate institutional workflows across private equity, systematic investing, and derivatives.
 
